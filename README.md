@@ -1,4 +1,4 @@
-# 🚀 My AI/ML Playground: A Google Colab Repository 🚀
+# 🚀 AI/ML Playground: A Google Colab Repository 🚀
 
 Welcome to my personal arena of Artificial Intelligence and Machine Learning models, all crafted and brought to life in Google Colab! As a B.Tech AIML student at DPG ITM, I, Moksh Bhardwaj, am constantly exploring the exciting frontiers of AI. This repository is my curated collection – a living portfolio of diverse projects, each designed to be easily understood and accessed.
 
